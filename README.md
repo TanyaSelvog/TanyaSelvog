@@ -1,7 +1,8 @@
 ### Hello! 🖖 I'm Tanya. 
-***
-![image](https://user-images.githubusercontent.com/20543777/222518548-98733d2c-9dc0-4821-ab7b-9f9b3142021b.png)
 
+![image](https://user-images.githubusercontent.com/20543777/222523817-497cd7c2-9346-42de-bee5-f4f2f19c68bf.png)
+
+I'm a Software Developer who is passionate about learning new things, supporting women and minorities in tech, and building community. After years in various non-tech positions, I finished my Bachelor of Science degree in January 2023, and I'm excited to apply all of my skills and knowledge towards a career in software development. 
 <!--
 **TanyaSelvog/TanyaSelvog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
