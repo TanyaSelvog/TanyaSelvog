@@ -1,5 +1,6 @@
 ### Hello! 🖖 I'm Tanya. 
 ***
+![image](https://user-images.githubusercontent.com/20543777/222518548-98733d2c-9dc0-4821-ab7b-9f9b3142021b.png)
 
 <!--
 **TanyaSelvog/TanyaSelvog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
