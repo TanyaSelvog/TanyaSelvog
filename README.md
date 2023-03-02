@@ -1,4 +1,4 @@
-### Hello! 🖖: I'm Tanya. 
+### Hello! 🖖 I'm Tanya. 
 ***
 
 <!--
