@@ -1,4 +1,4 @@
-### Greetings! :smiley: 👩‍💻 I'm Tanya. 
+### Hello! 🖖: I'm Tanya. 
 ***
 
 <!--
