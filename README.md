@@ -1,6 +1,6 @@
 ### Hello! 🖖 I'm Tanya. 
 
-![image](https://user-images.githubusercontent.com/20543777/222523817-497cd7c2-9346-42de-bee5-f4f2f19c68bf.png)
+![image](https://user-images.githubusercontent.com/20543777/222799401-c3ca9701-da9f-4c72-8bcb-4edf13ecb045.png)
 
 I'm a Software Developer who is passionate about learning new things, supporting women and minorities in tech, and building community. After years in various non-tech positions, I finished my Bachelor of Science degree in January 2023, and I'm excited to apply all of my skills and knowledge towards a career in software development. 
 <!--
