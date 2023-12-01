@@ -1,11 +1,15 @@
-### Hello! 🖖 I'm Tanya. 
+### Greetings! 🖖 I'm Tanya. 
 
 
 
+![Enjoying the tulips jpeg](https://github.com/TanyaSelvog/TanyaSelvog/assets/20543777/0089b35f-8d6a-4bd4-85fa-feddee50a2bc)
 
-![LEGO minifig standing at her desk](https://user-images.githubusercontent.com/20543777/235219938-f42205ec-4f07-40d2-bc90-0df9393bbb09.jpeg)
 
-I'm a Software Developer who is passionate about learning new things, supporting women and minorities in tech, and building community. After years in various non-tech positions, I finished my Bachelor of Science degree in January 2023, and I'm excited to apply all of my skills and knowledge towards a career in software development. 
+
+I am a Software Development. My interests include: Cloud, AI + ML, representation in tech, and quantum computing. I love learning 🤓 and have degrees in Software Development and Religious Studies. I have several Azure certificates, a few Comptia+ certs, and I'm currently on a 500 days streak on Duolingo. 😆
+
+When I'm not programming, I'm busy being a cat mom 😸, building LEGO 🧱, running 🏃‍♀️, and watching the Sounders and Kraken.
+
 <!--
 **TanyaSelvog/TanyaSelvog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
