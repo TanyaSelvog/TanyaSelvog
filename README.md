@@ -2,8 +2,7 @@
 
 
 
-![Enjoying the tulips jpeg](https://github.com/TanyaSelvog/TanyaSelvog/assets/20543777/0089b35f-8d6a-4bd4-85fa-feddee50a2bc)
-
+![Enjoying the tulips](https://github.com/TanyaSelvog/TanyaSelvog/assets/20543777/2739038a-b95e-4a59-8922-26af8d35f03f)
 
 
 I am a Software Development. My interests include: Cloud, AI + ML, representation in tech, and quantum computing. I love learning 🤓 and have degrees in Software Development and Religious Studies. I have several Azure certificates, a few Comptia+ certs, and I'm currently on a 500 days streak on Duolingo. 😆
